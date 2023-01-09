@@ -166,3 +166,13 @@ a {
     border-radius: 20px;
     padding: 30px;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 20px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
